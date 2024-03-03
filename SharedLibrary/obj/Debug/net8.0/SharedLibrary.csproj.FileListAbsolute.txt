@@ -1,0 +1,12 @@
+F:\GameServer\GaneServerSolution\SharedLibrary\bin\Debug\net8.0\SharedLibrary.deps.json
+F:\GameServer\GaneServerSolution\SharedLibrary\bin\Debug\net8.0\SharedLibrary.dll
+F:\GameServer\GaneServerSolution\SharedLibrary\bin\Debug\net8.0\SharedLibrary.pdb
+F:\GameServer\GaneServerSolution\SharedLibrary\obj\Debug\net8.0\SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\GameServer\GaneServerSolution\SharedLibrary\obj\Debug\net8.0\SharedLibrary.AssemblyInfoInputs.cache
+F:\GameServer\GaneServerSolution\SharedLibrary\obj\Debug\net8.0\SharedLibrary.AssemblyInfo.cs
+F:\GameServer\GaneServerSolution\SharedLibrary\obj\Debug\net8.0\SharedLibrary.csproj.CoreCompileInputs.cache
+F:\GameServer\GaneServerSolution\SharedLibrary\obj\Debug\net8.0\SharedLibrary.dll
+F:\GameServer\GaneServerSolution\SharedLibrary\obj\Debug\net8.0\refint\SharedLibrary.dll
+F:\GameServer\GaneServerSolution\SharedLibrary\obj\Debug\net8.0\SharedLibrary.pdb
+F:\GameServer\GaneServerSolution\SharedLibrary\obj\Debug\net8.0\ref\SharedLibrary.dll
+F:\GameServer\GaneServerSolution\SharedLibrary\obj\Debug\net8.0\SharedLibrary.csproj.AssemblyReference.cache
