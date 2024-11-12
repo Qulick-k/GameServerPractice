@@ -7,7 +7,8 @@ public class GameManager : MonoBehaviour
     // Start is called before the first frame update
     async void Start()
     {
-        var player = await HttpClient.Get<Player>("http://localhost:5000/player/500");
+        //The localhost 's portnumber may vary each time, it is better to check the port number before running the game.
+        var player = await HttpClient.Get<Player>("https://localhost:7289/player/500");
         Debug.Log(player.Id);
     }
 
