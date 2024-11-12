@@ -406,11 +406,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\GameServer\\GaneServerSolution\\SharedLibrary\\SharedLibrary.csproj",
+      "projectUniqueName": "F:\\GameServer\\GameServerPractice\\SharedLibrary\\SharedLibrary.csproj",
       "projectName": "SharedLibrary",
-      "projectPath": "F:\\GameServer\\GaneServerSolution\\SharedLibrary\\SharedLibrary.csproj",
+      "projectPath": "F:\\GameServer\\GameServerPractice\\SharedLibrary\\SharedLibrary.csproj",
       "packagesPath": "C:\\Users\\small\\.nuget\\packages\\",
-      "outputPath": "F:\\GameServer\\GaneServerSolution\\SharedLibrary\\obj\\",
+      "outputPath": "F:\\GameServer\\GameServerPractice\\SharedLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\small\\AppData\\Roaming\\NuGet\\NuGet.Config",

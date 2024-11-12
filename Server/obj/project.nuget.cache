@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "enBiYYnHBUzWPheB70BPbkmI1q8aSIJpbG2WfWckev4cJbeVJBylmd4qs7WW63WFeE3vEwN1O4bYTgZBpoYsHw==",
+  "dgSpecHash": "dquXydszlgZNd0aDCzIi36GyyYQHRjlQkeotASDnwg1hHFgs6H1NGYiV29bbGtlAelfxrANZy0QOR1Hd7VadwA==",
   "success": true,
-  "projectFilePath": "F:\\GameServer\\GaneServerSolution\\Server\\Server.csproj",
+  "projectFilePath": "F:\\GameServer\\GameServerPractice\\Server\\Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\small\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.3\\microsoft.aspnetcore.jsonpatch.6.0.3.nupkg.sha512",
     "C:\\Users\\small\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\6.0.3\\microsoft.aspnetcore.mvc.newtonsoftjson.6.0.3.nupkg.sha512",

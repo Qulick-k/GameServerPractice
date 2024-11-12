@@ -428,11 +428,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\GameServer\\GaneServerSolution\\Server\\Server.csproj",
+      "projectUniqueName": "F:\\GameServer\\GameServerPractice\\Server\\Server.csproj",
       "projectName": "Server",
-      "projectPath": "F:\\GameServer\\GaneServerSolution\\Server\\Server.csproj",
+      "projectPath": "F:\\GameServer\\GameServerPractice\\Server\\Server.csproj",
       "packagesPath": "C:\\Users\\small\\.nuget\\packages\\",
-      "outputPath": "F:\\GameServer\\GaneServerSolution\\Server\\obj\\",
+      "outputPath": "F:\\GameServer\\GameServerPractice\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\small\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -449,8 +449,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "F:\\GameServer\\GaneServerSolution\\SharedLibrary\\SharedLibrary.csproj": {
-              "projectPath": "F:\\GameServer\\GaneServerSolution\\SharedLibrary\\SharedLibrary.csproj"
+            "F:\\GameServer\\GameServerPractice\\SharedLibrary\\SharedLibrary.csproj": {
+              "projectPath": "F:\\GameServer\\GameServerPractice\\SharedLibrary\\SharedLibrary.csproj"
             }
           }
         }
