@@ -2,6 +2,7 @@ using System.Text;
 using System.Threading.Tasks;
 using UnityEngine;
 using UnityEngine.Networking;
+using Newtonsoft.Json;
 
 
 namespace _Scripts
@@ -14,7 +15,7 @@ namespace _Scripts
             getRequest.SendWebRequest();
 
             while (!getRequest.isDone) await Task.Delay(10);
-            return JsonUtility.FromJson<T>(getRequest.downloadHandler.text);
+            return JsonConvert.DeserializeObject<T>(getRequest.downloadHandler.text);
         }
 
         public static async Task<T> Post<T>(string endpoint, object payload)
@@ -23,7 +24,7 @@ namespace _Scripts
             postRequest.SendWebRequest();
 
             while (!postRequest.isDone) await Task.Delay(10);
-            return JsonUtility.FromJson<T>(postRequest.downloadHandler.text);
+            return JsonConvert.DeserializeObject<T>(postRequest.downloadHandler.text);
         }
 
         private static UnityWebRequest CreateRequest(string path, RequestType type = RequestType.GET, object data = null)

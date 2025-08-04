@@ -423,7 +423,8 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\small\\.nuget\\packages\\": {}
+    "C:\\Users\\small\\.nuget\\packages\\": {},
+    "E:\\VS\\VS_Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
@@ -434,8 +435,12 @@
       "packagesPath": "C:\\Users\\small\\.nuget\\packages\\",
       "outputPath": "F:\\GameServer\\GameServerPractice\\Server\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "E:\\VS\\VS_Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\small\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

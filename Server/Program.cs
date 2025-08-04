@@ -7,7 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers().AddNewtonsoftJson(o =>
 {
-    o.SerializerSettings.ContractResolver = new DefaultContractResolver(); //make letter case sensitive
+    //o.SerializerSettings.ContractResolver = new DefaultContractResolver(); //make letter case sensitive
 });
 
 //Learn more about configuruing Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
